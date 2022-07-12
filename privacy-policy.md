@@ -1,4 +1,4 @@
-**Privacy Policy for Milade Taxi Cab**
+**Privacy Policy for Milade TL**
 
 
 # Privacy Policy
@@ -7,7 +7,7 @@ Last updated: July, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created by Yomi Oyekan IT Solutions.
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created by Yomi Oyekan IT Solutions and Edited by Milade Groups Limited.
 
 # Interpretation and Definitions
 
@@ -85,9 +85,9 @@ You may also have the option of sharing additional information with the Company 
 
 While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
 
-•	Information regarding your location
+•	Information regarding your **location** (Precise and coarse)
 
-•	Information from your Device's phone book (contacts list)
+•	Information from your Device's phone book **(Contacts list)**
 
 •	Pictures and other information from your Device's camera and photo library
 
