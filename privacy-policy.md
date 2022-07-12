@@ -189,7 +189,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 * By email: **miladetl01@gmail.com**
 * By phone number: **+234 906 015 5653**
-* Our website: **miladegroups.com**
+* Our website: **www.miladegroups.com**
 
 
 #### Privacy Policy for Milade TL
