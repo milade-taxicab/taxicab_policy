@@ -58,6 +58,8 @@ While using Our Service, We may ask You to provide Us with certain personally id
 * Phone number
 * Address, State, Province, ZIP/Postal code, City
 * Usage Data
+* Contacts List
+* Images
 
 #### Usage Data
 
